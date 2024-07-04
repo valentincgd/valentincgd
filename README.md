@@ -9,7 +9,7 @@
 
 > Frameworks and other
 
-![My Skills](https://skillicons.dev/icons?i=express,flask,angular,mysql,arduino,docker,git,github,gitlab,jenkins,jest,postgres)
+![My Skills](https://skillicons.dev/icons?i=express,flask,angular,mysql,mongodb,arduino,docker,git,github,gitlab,jenkins,jest,postgres,react,next,selenium,cloudflare,unrealengine)
 
 > IDEs, & Other Tools
 
@@ -20,4 +20,3 @@ Find me on:
 [@Twitter](https://twitter.com/valentin_cgd) <br>
 [@Email](mailto:dispurgen@gmail.com) <br>
 
-<img src="https://wakatime.com/share/@2c0f1e87-411d-49e4-bb31-c38a24f149cf/55d9fd2a-0d13-4018-a78f-0f23cc84db05.svg" width="350" height="350">
